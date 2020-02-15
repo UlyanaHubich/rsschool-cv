@@ -1,2 +1,1 @@
-# rsschool-cv
-My completed assignment for The Rolling score school
+https://ulyanahubich.github.io/rsschool-cv/cv
